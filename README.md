@@ -1,3 +1,3 @@
 # LoRa-Ra01H-projects
-# RF communication is being established through 2 LoRa Ra01H RF modules
+# RF communication is being established through 2 LoRa Ra01H RF modules (include library LoRa.h)
 # LoRa_basic_send and Lora_reciever are the corresponding codes for transmitter and reciever (Range - 300 meters)
